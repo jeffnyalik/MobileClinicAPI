@@ -3,11 +3,11 @@
 The Restful API has been developed using C#/ASpNetCore webAPI.
 The functionality of the API includes:
 
- # Adding patient records to the database
- # Getting the patients Details.
- # Getting A single patient details.
- # Updating the patients records
- # Deleting the patient record
+ -Adding patient records to the database
+ -Getting the patients Details.
+ -Getting A single patient details.
+ -Updating the patients records
+ -Deleting the patient record
 
 
 ## Tools used include:
