@@ -9,7 +9,36 @@ The functionality of the API includes:
  -Updating the patients records
  -Deleting the patient record
 
+ ### Prerequisites
 
+- [.NET Core SDK](https://dotnet.microsoft.com/download)
+- [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
+
+### Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/jeffnyalik/MobileClinicAPI.git
+    ```
+
+2. Restore dependencies:
+
+    ```bash
+    dotnet restore
+    ```
+
+3. Update the database with migrations:
+
+    ```bash
+    dotnet ef database update
+    ```
+
+4. Run the application:
+
+    ```bash
+    dotnet run
+    ```
 ## Tools used include:
   -Aspnetcore.
   -C#
