@@ -29,7 +29,7 @@ Here is a sneak preview of the app project endpoints
 - `PUT /api/patients/{id}`: Update a patient by ID.
 - `DELETE /api/patients/{id}`: Delete a patient by ID.
 
-![](./images/rest_apipng)
+![](images/rest_api.png)
 
 
 Happy Coding!!
